@@ -2,7 +2,7 @@
   "name": "re",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lisan4.github.io/zip-up",
+  "homepage": "https://lisan4.github.io/zip-up/",
   "dependencies": {
     "@radix-ui/react-dialog": "^1.1.15",
     "@radix-ui/react-select": "^2.2.6",

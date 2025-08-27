@@ -13,7 +13,7 @@ function App() {
 
   return (
     <div className="App">
-      <BrowserRouter>
+      <BrowserRouter basename="/zip-up">
         <div className="container-full-height">
           <Header cartItems={cartItems} />
           <main className="flex-grow">
