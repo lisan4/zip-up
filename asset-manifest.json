@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/zip-up/static/css/main.af722167.css",
+    "main.js": "/zip-up/static/js/main.87486796.js",
+    "index.html": "/zip-up/index.html",
+    "main.af722167.css.map": "/zip-up/static/css/main.af722167.css.map",
+    "main.87486796.js.map": "/zip-up/static/js/main.87486796.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af722167.css",
+    "static/js/main.87486796.js"
+  ]
+}
